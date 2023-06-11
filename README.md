@@ -17,7 +17,7 @@ This app is a mobile application built as part of an assessment for EarniPay's i
 * State management using a provider and the MVVM architecture.
 
 ## Getting Started
-To run EarniPhotos, you can either:
+To build EarniPhotos, you can either:
 
 * run flutter run in your terminal or
 * run by clicking the debug button in your preferred code editor
